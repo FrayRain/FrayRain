@@ -1,14 +1,17 @@
-### 👋 Hi there
+![](https://komarev.com/ghpvc/?username=FrayRain&color=blue)
 
-前端开发 · 上海
+### Hi there 👋
 
-- 🌱 最近在搞 React + TypeScript
-- 🐱 有一只橘猫
-- ✨ 喜欢好看的东西——UI、字体、排版
-- 📝 偶尔写写博客和小组件
+**Languages and Tools:**
 
----
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrayRain&show_icons=true&hide_title=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff" />
-</div>
+![FrayRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrayRain&show_icons=true&hide_border=true&count_private=true)
